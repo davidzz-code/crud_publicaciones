@@ -2,7 +2,9 @@
 
 # Acceso de usuarios en formulario de posts
 
-Esta aplicación web tiene cuatro tipos de usuarios, cada uno con roles y autorizaciones únicas. Se presenta una descripción de los permisos de cada usuario y su información de inicio de sesión:
+Esta aplicación web tiene cuatro tipos de usuarios, cada uno con roles y autorizaciones únicas. [Aquí se puede ir a la web](http://dramirezruiz.randion.es/formulario_laravel_posts/public/)
+
+Se presenta una descripción de los permisos de cada usuario y su información de inicio de sesión:
 
 ## SuperAdmin
 
